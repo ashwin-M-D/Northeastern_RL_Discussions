@@ -15,3 +15,9 @@
 2. DQN using Tensorflow 2
 
    a. Video: https://www.youtube.com/watch?v=SMZfgeHFFcA
+
+3. Prioritied Experience Replay:
+
+   a. Paper 1: https://arxiv.org/pdf/1511.05952.pdf
+
+   b. Paper 2: https://arxiv.org/pdf/2007.07358.pdf
