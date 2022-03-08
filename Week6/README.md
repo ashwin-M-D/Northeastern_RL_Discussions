@@ -1,8 +1,8 @@
-# Week 5
+# Week 6
 
 ### Zoom Recording
 
-<a href="https://northeastern.zoom.us/rec/share/CionCejfI61iCnojpSCOmU6BDHcSFw_MG9YUR7WwqHynVWcQlStFpHlWeg-kk3wd.weFip3coVJm2gPmO">Zoom Meeting recording</a>
+<a href="">Zoom Meeting recording</a>
 
 ### Material Discussed
 
@@ -12,11 +12,7 @@
 
    b. Blog: https://towardsdatascience.com/beginners-guide-to-custom-environments-in-openai-s-gym-989371673952
 
-2. DQN using Tensorflow 2
-
-   a. Video: https://www.youtube.com/watch?v=SMZfgeHFFcA
-
-3. Prioritied Experience Replay:
+2. Prioritied Experience Replay:
 
    a. Paper 1: https://arxiv.org/pdf/1511.05952.pdf
 
